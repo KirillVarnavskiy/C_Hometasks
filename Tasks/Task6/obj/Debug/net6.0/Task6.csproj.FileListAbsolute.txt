@@ -1,0 +1,15 @@
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\bin\Debug\net6.0\Task6.exe
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\bin\Debug\net6.0\Task6.deps.json
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\bin\Debug\net6.0\Task6.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\bin\Debug\net6.0\Task6.pdb
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\Task6.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\refint\Task6.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\Task6.pdb
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\Task6\obj\Debug\net6.0\ref\Task6.dll
