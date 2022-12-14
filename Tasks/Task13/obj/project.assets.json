@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KVarnavskiy\\YandexDisk\\Education\\GeekBrains\\Projects(C#)\\Seminary\\HomeWork2\\Task13\\Task13.csproj",
+      "projectUniqueName": "C:\\Users\\KVarnavskiy\\YandexDisk\\Education\\GeekBrains\\Projects(C#)\\Seminary\\HomeWork1\\C_Hometasks\\Tasks\\Task13\\Task13.csproj",
       "projectName": "Task13",
-      "projectPath": "C:\\Users\\KVarnavskiy\\YandexDisk\\Education\\GeekBrains\\Projects(C#)\\Seminary\\HomeWork2\\Task13\\Task13.csproj",
+      "projectPath": "C:\\Users\\KVarnavskiy\\YandexDisk\\Education\\GeekBrains\\Projects(C#)\\Seminary\\HomeWork1\\C_Hometasks\\Tasks\\Task13\\Task13.csproj",
       "packagesPath": "C:\\Users\\KVarnavskiy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KVarnavskiy\\YandexDisk\\Education\\GeekBrains\\Projects(C#)\\Seminary\\HomeWork2\\Task13\\obj\\",
+      "outputPath": "C:\\Users\\KVarnavskiy\\YandexDisk\\Education\\GeekBrains\\Projects(C#)\\Seminary\\HomeWork1\\C_Hometasks\\Tasks\\Task13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KVarnavskiy\\AppData\\Roaming\\NuGet\\NuGet.Config"
