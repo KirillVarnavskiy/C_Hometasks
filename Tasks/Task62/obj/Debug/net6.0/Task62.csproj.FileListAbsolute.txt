@@ -1,0 +1,15 @@
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\bin\Debug\net6.0\Task62.exe
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\bin\Debug\net6.0\Task62.deps.json
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\bin\Debug\net6.0\Task62.runtimeconfig.json
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\bin\Debug\net6.0\Task62.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\bin\Debug\net6.0\Task62.pdb
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\Task62.csproj.AssemblyReference.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\Task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\Task62.AssemblyInfoInputs.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\Task62.AssemblyInfo.cs
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\Task62.csproj.CoreCompileInputs.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\Task62.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\refint\Task62.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\Task62.pdb
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\Task62.genruntimeconfig.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\Projects(C#)\Seminary\HomeWork1\C_Hometasks\Tasks\Task62\obj\Debug\net6.0\ref\Task62.dll
